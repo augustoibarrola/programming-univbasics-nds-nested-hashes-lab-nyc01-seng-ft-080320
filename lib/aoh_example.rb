@@ -19,9 +19,10 @@ end
 # Array. Ruby constants are denoted by ALL_CAPS
 
 def literal_aoh
-  # Using Array literal syntax only, build a nested array that uses the data in
-  # held in the constants
+  infinite_jest = [DON_G, JOELLE,VD, PAT_M, KATE_G, BRUCE_G]
 end
+# Using Array literal syntax only, build a nested array that uses the data in
+# held in the constants
 
 def aoh_lookup(aoh, row, key)
 end
